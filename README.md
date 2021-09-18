@@ -46,3 +46,5 @@ We will use the Fashion MNIST dataset. Fashion-MNIST is a dataset of Zalando's a
 ## Reference
 
 Géron, A. (2020). Chapter 17: Representation Learning and Generative Learning Using Autoencoders and GANs. In Hands-on machine learning with SCIKIT-LEARN, Keras, and TENSORFLOW: Concepts, tools, and techniques to build intelligent systems (2nd ed., p. 567). O'Reilly. 
+
+Radford, A., Metz, L., & Chintala, S. (2016). Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks. CoRR, abs/1511.06434.
