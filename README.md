@@ -19,6 +19,16 @@ We will use the Fashion MNIST dataset. Fashion-MNIST is a dataset of Zalando's a
 
 ## Modeling
 
+### Generator Architect
+
+<img src = '../main/Data & Images/generator.png' heighth='75%' width='75%'>
+
+### Discriminator Architect
+
+<img src = '../main/Data & Images/discriminator.png' heighth='75%' width='75%'>
+
+### Training GIF
+
 <img src = '../main/Data & Images/dcgan.gif'>
 
 ## Prediction
