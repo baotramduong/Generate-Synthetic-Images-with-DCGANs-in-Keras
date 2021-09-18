@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/generate-synthetic-images-with-deep-convolutional-generative-adversarial-network-dcgan-424528b3477b)
 
 ## Introduction
 
