@@ -35,7 +35,7 @@ We will use the Fashion MNIST dataset. Fashion-MNIST is a dataset of Zalando's a
 
 <img src = '../main/Data & Images/dcgan.gif'>
 
-## Prediction
+## Generation
 
 <img src = '../main/Data & Images/synthetic images.png'>
 
