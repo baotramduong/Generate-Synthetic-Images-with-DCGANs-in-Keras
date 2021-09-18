@@ -27,6 +27,10 @@ We will use the Fashion MNIST dataset. Fashion-MNIST is a dataset of Zalando's a
 
 <img src = '../main/Data & Images/discriminator.png' heighth='75%' width='75%'>
 
+### DCGAN Architect
+
+<img src = '../main/Data & Images/dcgan.png' heighth='75%' width='75%'>
+
 ### Training GIF
 
 <img src = '../main/Data & Images/dcgan.gif'>
